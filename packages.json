@@ -1,4 +1,4 @@
-{
+[
     {
         "package": "pavement",
         "url": "https://github.com/NONONOexe/pavement"
@@ -23,4 +23,4 @@
         "package": "setariaviridis",
         "url": "https://github.com/NONONOexe/setariaviridis"
     }
-}
+]
