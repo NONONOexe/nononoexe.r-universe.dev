@@ -1,0 +1,26 @@
+{
+    {
+        "package": "pavement",
+        "url": "https://github.com/NONONOexe/pavement"
+    },
+    {
+        "package": "roadnetdb",
+        "url": "https://github.com/NONONOexe/roadnetdb"
+    },
+    {
+        "package": "jpaccidents",
+        "url": "https://github.com/NONONOexe/jpaccidents"
+    },
+    {
+        "package": "aichicities",
+        "url": "https://github.com/NONONOexe/aichicities"
+    },
+    {
+        "package": "kyotocities",
+        "url": "https://github.com/NONONOexe/kyotocities"
+    },
+    {
+        "package": "setariaviridis",
+        "url": "https://github.com/NONONOexe/setariaviridis"
+    }
+}
